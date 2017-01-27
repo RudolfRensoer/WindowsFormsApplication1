@@ -24,7 +24,8 @@ namespace WindowsFormsApplication1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            textBox1.Text = "Hello and TEST TEST TEST";
+            textBox1.Text = "Hello and TEST TEST TEST XXX";
+
            
         }
     }
